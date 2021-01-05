@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Gasthaus Heinrich - Zum Schwarzen Roß</title>
-    <link>https://www.gasthaus-heinrich.de/tags/index/</link>
+    <link>https://gasthaus-heinrich.github.io/gasthaus-heinrich/tags/index/</link>
     <description>Recent content in index on Gasthaus Heinrich - Zum Schwarzen Roß</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language><atom:link href="https://www.gasthaus-heinrich.de/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>de</language><atom:link href="https://gasthaus-heinrich.github.io/gasthaus-heinrich/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://www.gasthaus-heinrich.de/post/</link>
+      <link>https://gasthaus-heinrich.github.io/gasthaus-heinrich/post/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gasthaus-heinrich.de/post/</guid>
+      <guid>https://gasthaus-heinrich.github.io/gasthaus-heinrich/post/</guid>
       <description></description>
     </item>
     
